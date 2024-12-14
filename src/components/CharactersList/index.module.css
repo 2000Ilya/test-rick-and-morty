@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    width: 630px;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 720px) {
+    .container {
+        /* to do */
+    }
+}
